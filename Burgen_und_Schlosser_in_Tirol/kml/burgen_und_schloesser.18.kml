@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml:kml xmlns:kml="http://earth.google.com/kml/2.1">
+    <kml:Document id="featureCollection">
+        <kml:Placemark id="burgen_und_schloesser.18">
+            <kml:Point>
+                <kml:coordinates>12.162531323537326,47.43635905321142</kml:coordinates>
+            </kml:Point>
+        </kml:Placemark>
+    </kml:Document>
+</kml:kml>

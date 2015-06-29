@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml:kml xmlns:kml="http://earth.google.com/kml/2.1">
+    <kml:Document id="featureCollection">
+        <kml:Placemark id="kirchen_tirol.79">
+            <kml:Point>
+                <kml:coordinates>12.341866191681063,47.475924605108936</kml:coordinates>
+            </kml:Point>
+        </kml:Placemark>
+    </kml:Document>
+</kml:kml>

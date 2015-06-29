@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml:kml xmlns:kml="http://earth.google.com/kml/2.1">
+    <kml:Document id="featureCollection">
+        <kml:Placemark id="thematische_Radwege.65">
+            <kml:MultiGeometry>
+                <kml:LineString>
+                    <kml:coordinates>13.163205863747516,47.59644163075986 13.163195001050598,47.59627030396733 13.163180642395975,47.59612005066625 13.163221949517885,47.59594226735007 13.163333908168086,47.59569706394182 13.163282922368687,47.595439036594925 13.163131884721986,47.595185847415664 13.162995839892664,47.5949227025099 13.16288531141175,47.59473471182113 13.162726658398274,47.59458670028045 13.162530914615308,47.594441162445506</kml:coordinates>
+                </kml:LineString>
+            </kml:MultiGeometry>
+        </kml:Placemark>
+    </kml:Document>
+</kml:kml>
